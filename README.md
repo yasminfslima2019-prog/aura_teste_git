@@ -8,3 +8,6 @@ Aqui vem um exemplo de como adicionamos um texto ao nosso readme.
 ## COMO CRIAR UM PULL REQUEST
 
 Para criar um pull request, crie uma nova branch e envie suas alterações, logo crie uma solicitação de pull request para a branch principal.
+## CRIANDO UM CONFLITO
+
+Um conflito existe quando o mesmo arquivo é modificado em duas branches separadas. O git deve controlar qual das alterações vem primeiro, e assim garantir a integridade do nosso código!
